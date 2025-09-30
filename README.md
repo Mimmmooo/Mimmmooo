@@ -39,8 +39,6 @@
 
 </p>
 
-[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/) 
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </div>
