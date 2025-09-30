@@ -10,7 +10,7 @@ I turn math into working code — simple, explainable machine learning, crisp da
 - **ML & Data:** Decision Trees, EDA, feature-gain focus  
 - **Code:** Python, clear BFS/DFS solutions, SQL schema design
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimmmooo&show_icons=true&theme=radical)
 
 ---
 
