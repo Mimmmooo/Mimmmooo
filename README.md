@@ -1,17 +1,46 @@
-<!-- README.md - Short, animated & impressive -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=50&fontAlignY=40&color=gradient"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1400&color=2563eb&background=ffffff00&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Selina+Mim;Math+lover+%7C+ML+%26+Data+Sci;Clean+Code+%7C+Simple+Solutions)
+<div align="center">
 
-### 🚀 Quick Pitch
-I turn math into working code — simple, explainable machine learning, crisp data visuals, and clean algorithms.
+# 🦄 Mimmmooo
 
-### 💡 Core
-- **Math:** Linear Algebra, Complex Analysis, Probability  
-- **ML & Data:** Decision Trees, EDA, feature-gain focus  
-- **Code:** Python, clear BFS/DFS solutions, SQL schema design
+**AI & Data | Code as Art | Always Exploring**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimmmooo&show_icons=true&theme=radical)
+</div>
 
 ---
 
-✨ *Replace `YOUR_GITHUB_USERNAME` above with your GitHub handle to enable live stats.*
+## 🛠️ Toolbox
+
+- 🤖 PyTorch | Prompt Engineering
+- 🐍 Python | Pandas | NumPy
+- 📊 Matplotlib | Seaborn | Streamlit
+- ☁️ Git 
+
+---
+
+<div align="center">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mimmmooo&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimmmooo&layout=compact&theme=tokyonight&hide_border=false" />
+</div>
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tasnuva-mim-895914381/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Mimmoo"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/mimmoooo/"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://x.com/selina_mim"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/tasnuva_mim/"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/instagram.svg" height="28"/></a>
+
+
+</p>
+
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/) 
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</div>
