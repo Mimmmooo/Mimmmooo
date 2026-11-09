@@ -8,10 +8,6 @@
 
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mimmmooo&label=PROFILE%20VIEWS&color=8b5cf6&style=flat-square" alt="Profile views counter" />
-</div>
-
 ### ✦ About Me
 
 I'm a curious learner exploring **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building practical applications, experimenting with data, and exploring new approaches to solving problems.
@@ -105,6 +101,8 @@ Small Python applications and programming experiments.
 <a href="https://github.com/Mimmmooo?tab=repositories"><img src="https://img.shields.io/badge/Public_Projects-322046?style=for-the-badge&logo=github&logoColor=D8A6FF" alt="View public projects" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C99BFF&center=true&vCenter=true&width=620&lines=Research.+Build.+Learn.+Repeat.;Explore+my+projects+and+contributions." alt="Animated GitHub activity message" />
+
+<img src="https://raw.githubusercontent.com/Mimmmooo/Mimmmooo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated purple contribution snake" />
 
 
 
