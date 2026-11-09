@@ -1,42 +1,59 @@
 <div align="center">
-
-# Mimmmooo
-
-**AI & Machine Learning · Data Science · Python**
-
-<sub>Curious by nature. Building through code.</sub>
-
+  <img src="https://raw.githubusercontent.com/Mimmmooo/Mimmmooo/main/assets/profile-banner.svg" width="100%" alt="Mimmmooo — AI and Machine Learning, Data Science, Python" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3300&pause=1200&color=C99BFF&center=true&vCenter=true&width=650&lines=Curious+about+AI%2C+data+%26+creative+code;Building+projects+%26+exploring+new+ideas;Always+learning.+Always+creating." alt="Animated introduction" />
 </div>
 
-### About
+### <img src="https://img.icons8.com/fluency/24/user-female-circle.png" width="22" alt="" /> &nbsp;About Me
 
-Exploring artificial intelligence, machine learning, and data science. Interested in solving problems through code, experimenting with new ideas, and building useful applications.
+<table><tr><td width="52%" valign="top">
 
-### Tech Stack
+A curious learner exploring **AI, Machine Learning, and Data Science**, passionate about turning ideas into practical solutions through code and real-world experiments.
 
-**Languages & Data**  
-![Python](https://img.shields.io/badge/Python-252331?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-252331?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-252331?style=flat-square&logo=numpy&logoColor=white)
+</td><td valign="top">
 
-**AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-252331?style=flat-square&logo=pytorch&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-252331?style=flat-square&logo=openai&logoColor=white)
+🎓 **Interests:** AI/ML · Data Science · MLOps<br/>
+💻 **Currently:** Building projects & exploring new ideas<br/>
+🎯 **Goal:** Create useful, data-driven solutions
 
-**Visualization & Tools**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-252331?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-252331?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-252331?style=flat-square&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-252331?style=flat-square&logo=git&logoColor=white)
+</td></tr></table>
 
-### Selected Work
+### 💜 Tech Stack
 
-Projects, experiments, and things I'm learning along the way.  
-[**Explore repositories ↗**](https://github.com/Mimmmooo?tab=repositories)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github&theme=dark" alt="Python, PyTorch, Git and GitHub" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-211831?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-211831?style=for-the-badge&logo=numpy&logoColor=4dabcf" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-211831?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-211831?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Streamlit-211831?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" alt="Streamlit" />
+</div>
 
-### GitHub Activity
+<br/>
+
+<table><tr><td width="65%" valign="top">
+
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mimmmooo&show_icons=true&hide_border=true&bg_color=171126&title_color=D8A6FF&icon_color=B882F4&text_color=F0E7FA" width="100%" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimmmooo&layout=compact&hide_border=true&bg_color=171126&title_color=D8A6FF&text_color=F0E7FA" width="100%" alt="Most used languages" />
+
+</td><td valign="top">
+
+### 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/tasnuva-mim-895914381/"><img src="https://img.shields.io/badge/LinkedIn-211831?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a><br/>
+<a href="https://codeforces.com/profile/Mimmoo"><img src="https://img.shields.io/badge/Codeforces-211831?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a><br/>
+<a href="https://leetcode.com/u/mimmoooo/"><img src="https://img.shields.io/badge/LeetCode-211831?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a><br/>
+<a href="https://x.com/selina_mim"><img src="https://img.shields.io/badge/X-211831?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a><br/>
+<a href="https://www.instagram.com/tasnuva_mim/"><img src="https://img.shields.io/badge/Instagram-211831?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+
+</td></tr></table>
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Mimmmooo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B4A0D5&icon_color=B4A0D5&text_color=C9D1D9" alt="Mimmmooo GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimmmooo&layout=compact&hide_border=true&bg_color=0D1117&title_color=B4A0D5&text_color=C9D1D9" alt="Most used languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26143f,50:7135a3,100:aa69df&height=95&section=footer" width="100%" alt="Purple wave footer" />
 
 </div>
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/tasnuva-mim-895914381/) · [Codeforces](https://codeforces.com/profile/Mimmoo) · [LeetCode](https://leetcode.com/u/mimmoooo/) · [X](https://x.com/selina_mim) · [Instagram](https://www.instagram.com/tasnuva_mim/)
