@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100d23"/><stop offset=".65" stop-color="#22133d"/><stop offset="1" stop-color="#42216d"/></linearGradient><linearGradient id="p" x2="0" y2="1"><stop stop-color="#f1d5ff"/><stop offset="1" stop-color="#9c57e9"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect width="1200" height="270" fill="url(#bg)"/>
+<g fill="#c69cff" opacity=".75"><circle cx="905" cy="34" r="2"/><circle cx="1050" cy="58" r="2"/><circle cx="820" cy="68" r="1.5"/><circle cx="1120" cy="27" r="2"/><path d="M785 35l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/></g>
+<circle cx="1030" cy="60" r="26" fill="#e2baff"/><circle cx="1042" cy="51" r="26" fill="#271543"/>
+<circle cx="130" cy="125" r="77" fill="none" stroke="#9d64d6" stroke-width="8" opacity=".7"/><circle cx="154" cy="102" r="71" fill="#151027"/>
+<text x="94" y="159" font-family="Georgia,serif" font-size="100" font-style="italic" fill="url(#p)">M</text>
+<path d="M255 55v143" stroke="#b887ef" stroke-width="2"/>
+<text x="290" y="84" fill="#f7f1ff" font-family="Arial,sans-serif" font-size="27">Hey there! I'm</text>
+<text x="287" y="157" fill="url(#p)" font-family="Georgia,serif" font-style="italic" font-size="69">Mimmmooo</text>
+<text x="293" y="196" fill="#e5d8f4" font-family="Arial,sans-serif" font-size="19">AI &amp; Machine Learning   |   Data Science   |   Python</text>
+<g opacity=".8"><rect x="907" y="107" width="196" height="117" rx="8" fill="#0c0c1e" stroke="#9871d6" stroke-width="4"/><rect x="920" y="120" width="169" height="88" rx="3" fill="#241441"/><text x="958" y="178" fill="#ca9cff" font-family="monospace" font-size="33">&lt;/&gt;</text><path d="M890 224h232l-16 9H905z" fill="#9475bd"/><rect x="1118" y="176" width="27" height="47" rx="4" fill="#e8d4ff"/><path d="M1145 184q20 0 0 22" fill="none" stroke="#e8d4ff" stroke-width="5"/></g>
+<path d="M0 238C150 211 250 264 420 240S680 222 800 242 1050 214 1200 236v34H0z" fill="#6e34a6" opacity=".5"/><path d="M0 241C150 217 240 257 420 239S670 226 810 244 1060 220 1200 238" fill="none" stroke="#ba72f9" stroke-width="3"/>
+</svg>
